@@ -1,0 +1,1 @@
+lägger till dokumentation ifrån en branch helt nyskapad från cmd-line på PC.
